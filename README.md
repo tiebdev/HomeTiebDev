@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I´m Ridouan Tieb 
 
 - 🔭 I am currently working on a web app, a technology blog.
 - 👯 I am willing to collaborate in projects with the community.
