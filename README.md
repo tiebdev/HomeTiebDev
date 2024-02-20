@@ -32,7 +32,7 @@
 </p>
 
 <!-- Development: Front-end -->
-<summary><h2 style="display: inline-block">Web Development: Front-end🌐</h2></summary>
+<summary><h2 style="display: inline-block">Development: Front-end🌐</h2></summary>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=3" alt="Front-end Development"/>
@@ -40,7 +40,7 @@
 </p>
 
 <!-- Development: Back-end -->
-<summary><h2 style="display: inline-block">Web Development: Back-end🔙</h2></summary>
+<summary><h2 style="display: inline-block">Development: Back-end🔙</h2></summary>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,py,java&perline=3" alt="Back-end Development"/>
