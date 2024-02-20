@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working at Prosegur Soluciones Integrales.
+- 🔭 I am currently working on a web app, a technology blog.
 - 👯 I am willing to collaborate in projects with the community.
 - 💬 Ask me about anything you want.
 
