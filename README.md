@@ -25,7 +25,7 @@
 
 <!-- Programming Languages -->
 <summary><h2 style="display: inline-block">Programming Languages👨🏻‍💻</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,kotlin,cs,py,bash&perline=6" alt="Programming Languages"/>
   </a>
@@ -33,7 +33,7 @@
 
 <!-- Web Development: Front-end -->
 <summary><h2 style="display: inline-block">Web Development: Front-end🌐</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=3" alt="Front-end Development"/>
   </a>
@@ -41,7 +41,7 @@
 
 <!-- Web Development: Back-end -->
 <summary><h2 style="display: inline-block">Web Development: Back-end🔙</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,py&perline=2" alt="Back-end Development"/>
   </a>
@@ -49,7 +49,7 @@
 
 <!-- Databases -->
 <summary><h2 style="display: inline-block">Databases💾</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" alt="Databases"/>
   </a>
@@ -57,7 +57,7 @@
 
 <!-- Development Tools and IDEs -->
 <summary><h2 style="display: inline-block">Development Tools and IDEs🛠️</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github&perline=3" alt="Development Tools and IDEs"/>
   </a>
@@ -65,7 +65,7 @@
 
 <!-- Design and Prototyping -->
 <summary><h2 style="display: inline-block">Design and Prototyping🎨</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Design and Prototyping"/>
   </a>
@@ -73,13 +73,11 @@
 
 <!-- Infrastructure and Deployment -->
 <summary><h2 style="display: inline-block">Infrastructure and Deployment🚀</h2></summary>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,firebase,linux&perline=3" alt="Infrastructure and Deployment"/>
   </a>
 </p>
-
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
