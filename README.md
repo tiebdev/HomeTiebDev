@@ -23,12 +23,55 @@
   </ul>
 </div>
 
-<!--tech stack icons-->
+<!-- Programming Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,css,discord,docker,figma,firebase,html,java,js,kotlin,dotnet,linux,md,mongodb,mysql,py,vscode,cs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,kotlin,cs,py,bash&perline=6" alt="Programming Languages"/>
   </a>
 </p>
+
+<!-- Web Development: Front-end -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=3" alt="Front-end Development"/>
+  </a>
+</p>
+
+<!-- Web Development: Back-end -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,py&perline=2" alt="Back-end Development"/>
+  </a>
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" alt="Databases"/>
+  </a>
+</p>
+
+<!-- Development Tools and IDEs -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github&perline=3" alt="Development Tools and IDEs"/>
+  </a>
+</p>
+
+<!-- Design and Prototyping -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Design and Prototyping"/>
+  </a>
+</p>
+
+<!-- Infrastructure and Deployment -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,firebase,linux&perline=3" alt="Infrastructure and Deployment"/>
+  </a>
+</p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
