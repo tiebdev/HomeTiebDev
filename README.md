@@ -59,7 +59,7 @@
 <summary><h2 style="display: inline-block">Development Tools and IDEs🛠️</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github&perline=3" alt="Development Tools and IDEs"/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,androidstudio&perline=3" alt="Development Tools and IDEs"/>
   </a>
 </p>
 
