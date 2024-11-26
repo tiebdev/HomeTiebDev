@@ -1,7 +1,5 @@
 <h2 style="display: inline-block"> Hi 👋 I´m Ridouan Tieb </h2>
 
-- 🔭 I am currently working on a web app, a technology blog.
-- 👯 I am willing to collaborate in projects with the community.
 - 💬 Ask me about anything you want.
 
 <!--- stats & Trophy (start) -->
