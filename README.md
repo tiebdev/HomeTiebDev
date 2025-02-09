@@ -1,15 +1,6 @@
 <h2 style="display: inline-block"> Hi 👋 I´m Ridouan Tieb </h2>
 
 - 💬 Ask me about anything you want.
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoutdev&theme=dark&hide_border=false" /> 
-</td>
   
 <!-- Stats Languages 
 <td>
@@ -44,7 +35,7 @@
 <summary><h2 style="display: inline-block">Development: Front-end🌐</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=3" alt="Front-end Development"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=3" alt="Front-end Development"/>
   </a>
 </p>
 
