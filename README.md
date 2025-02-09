@@ -27,7 +27,7 @@
 <summary><h2 style="display: inline-block">Programming Languages👨🏻‍💻</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,cs,py,bash&perline=6" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,js&perline=4" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 <summary><h2 style="display: inline-block">Development: Front-end🌐</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=3" alt="Front-end Development"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=4" alt="Front-end Development"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 <summary><h2 style="display: inline-block">Development: Back-end🔙</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,py,java&perline=3" alt="Back-end Development"/>
+    <img src="https://skillicons.dev/icons?i=cs,java&perline=2" alt="Back-end Development"/>
   </a>
 </p>
 
@@ -75,7 +75,7 @@
 <summary><h2 style="display: inline-block">Infrastructure and Deployment🚀</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,firebase,linux&perline=3" alt="Infrastructure and Deployment"/>
+    <img src="https://skillicons.dev/icons?i=firebase,linux&perline=3" alt="Infrastructure and Deployment"/>
   </a>
 </p>
 
