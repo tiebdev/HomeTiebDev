@@ -1,91 +1,41 @@
-<h2 style="display: inline-block"> Hi 👋 I´m Ridouan Tieb </h2>
+# 👋 ¡Hola, soy Ridouan Tieb!
 
-- 💬 Ask me about anything you want.
-  
-<!-- Stats Languages 
-<td>
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
-</td>
--->
-</tr>
-</table>
-<!--- stats (end) -->
+### 💻 Desarrollador de Software | Especialista en Integración de Dispositivos | Apasionado por la Tecnología y el Automovilismo
 
-<!--
-<div align="center">
+Soy desarrollador de software con experiencia en el ecosistema .NET y la integración de dispositivos físicos mediante APIs REST y SOAP. Mi trayectoria profesional es única: antes de sumergirme en la programación, fui soldado profesional y luego dirigí mi propio negocio. Esta diversidad me ha dado habilidades clave en disciplina, resolución de problemas y liderazgo.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridoutdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ridouan Tieb Github Stats"> -->
+Actualmente, trabajo desarrollando aplicaciones **WPF en .NET Framework** para la integración de hardware con software.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨</h2></summary>
-  </ul>
-</div>
+---
 
-<!-- Programming Languages -->
-<summary><h2 style="display: inline-block">Programming Languages👨🏻‍💻</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js&perline=4" alt="Programming Languages"/>
-  </a>
-</p>
+## 🚀 Tecnologías y Herramientas
 
-<!-- Development: Front-end -->
-<summary><h2 style="display: inline-block">Development: Front-end🌐</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=4" alt="Front-end Development"/>
-  </a>
-</p>
+### ⚙️ **Desarrollo Back-end y Mobile**
+![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
 
-<!-- Development: Back-end -->
-<summary><h2 style="display: inline-block">Development: Back-end🔙</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java&perline=2" alt="Back-end Development"/>
-  </a>
-</p>
+### 🎨 **Desarrollo Front-end**
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=js)
 
-<!-- Databases -->
-<summary><h2 style="display: inline-block">Databases💾</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" alt="Databases"/>
-  </a>
-</p>
+### 🛠️ **Herramientas y Entornos de Desarrollo**
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+ ![GitHub](https://skillicons.dev/icons?i=github) 
+### 🗄️ **Bases de Datos**
+![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-<!-- Development Tools and IDEs -->
-<summary><h2 style="display: inline-block">Development Tools and IDEs🛠️</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,androidstudio&perline=4" alt="Development Tools and IDEs"/>
-  </a>
-</p>
+### 🚀 **Infraestructura y CI/CD**
+![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux)
 
-<!-- Design and Prototyping -->
-<summary><h2 style="display: inline-block">Design and Prototyping🎨</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Design and Prototyping"/>
-  </a>
-</p>
+---
 
-<!-- Infrastructure and Deployment -->
-<summary><h2 style="display: inline-block">Infrastructure and Deployment🚀</h2></summary>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,linux&perline=3" alt="Infrastructure and Deployment"/>
-  </a>
-</p>
+## 📢 Sobre **SpeedNet Racer** 🏎️
+**SpeedNet Racer** es mi proyecto personal, donde combino tecnología avanzada con mi pasión por las carreras. Es un coche RC de alto rendimiento que se controla remotamente mediante simuladores y tecnología 5G. En este proyecto, implemento **inteligencia artificial** para mantenimiento predictivo, optimización de transmisión y gamificación del entorno. 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/ridouantieb/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+➡️ **Más información próximamente...**
+
+---
+
+## 📲 ¡Conectemos!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridouantieb/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieb.dev@gmail.com)  
+
+🔹 **Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!**
