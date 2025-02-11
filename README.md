@@ -2,8 +2,7 @@
 
 ### 💻 Desarrollador de Software | Especialista en Integración de Dispositivos | Apasionado por la Tecnología y el Automovilismo
 
-Soy desarrollador de software con experiencia en el ecosistema .NET y la integración de dispositivos físicos mediante APIs REST y SOAP. Mi trayectoria profesional es única: antes de sumergirme en la programación, fui soldado profesional y luego dirigí mi propio negocio. Esta diversidad me ha dado habilidades clave en disciplina, resolución de problemas y liderazgo.
-
+Soy desarrollador de software con experiencia en el ecosistema .NET.
 Actualmente, trabajo desarrollando aplicaciones **WPF en .NET Framework** para la integración de hardware con software.
 
 ---
@@ -28,7 +27,7 @@ Actualmente, trabajo desarrollando aplicaciones **WPF en .NET Framework** para l
 ---
 
 ## 📢 Sobre **SpeedNet Racer** 🏎️
-**SpeedNet Racer** es mi proyecto personal, donde combino tecnología avanzada con mi pasión por las carreras. Es un coche RC de alto rendimiento que se controla remotamente mediante simuladores y tecnología 5G. En este proyecto, implemento **inteligencia artificial** para mantenimiento predictivo, optimización de transmisión y gamificación del entorno. 
+**SpeedNet Racer** es mi proyecto personal, donde combino tecnología avanzada con mi pasión por las carreras. Es un coche RC de alto rendimiento que se controla remotamente mediante un simulador y tecnología 5G. En este proyecto, implemento **inteligencia artificial** para mantenimiento predictivo, optimización de transmisión y gamificación del entorno. 
 
 ➡️ **Más información próximamente...**
 
