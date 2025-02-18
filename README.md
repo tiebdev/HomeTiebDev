@@ -26,13 +26,6 @@ Actualmente, trabajo desarrollando aplicaciones **WPF en .NET Framework** para l
 
 ---
 
-## 📢 Sobre **SpeedNet Racer** 🏎️
-**SpeedNet Racer** es mi proyecto personal, donde combino tecnología avanzada con mi pasión por las carreras. Es un coche RC de alto rendimiento que se controla remotamente mediante un simulador y tecnología 5G. En este proyecto, implemento **inteligencia artificial** para mantenimiento predictivo, optimización de transmisión y gamificación del entorno. 
-
-➡️ **Más información próximamente...**
-
----
-
 ## 📲 ¡Conectemos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridouantieb/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieb.dev@gmail.com)  
