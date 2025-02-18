@@ -1,9 +1,9 @@
 # 👋 ¡Hola, soy Ridouan Tieb!
 
-### 💻 Desarrollador de Software | Especialista en Integración de Dispositivos | Apasionado por la Tecnología y el Automovilismo
+### 💻 Desarrollador de Software | Especialista en Integración de Dispositivos
 
 Soy desarrollador de software con experiencia en el ecosistema .NET.
-Actualmente, trabajo desarrollando aplicaciones **WPF en .NET Framework** para la integración de hardware con software.
+Actualmente, trabajo desarrollando aplicaciones **WPF** para la integración de hardware con software.
 
 ---
 
