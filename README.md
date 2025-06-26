@@ -28,6 +28,6 @@ Actualmente, trabajo desarrollando aplicaciones **WPF** para la integración de 
 
 ## 📲 ¡Conectemos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridouantieb/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieb.dev@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridouan@tieb.dev)  
 
 🔹 **Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!**
