@@ -3,7 +3,6 @@
 ### 💻 Desarrollador de Software 
 
 Soy desarrollador de software con experiencia en el ecosistema .NET.
-Actualmente, trabajo desarrollando aplicaciones **WPF** para la integración de hardware con software.
 
 ---
 
