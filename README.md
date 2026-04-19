@@ -1,29 +1,27 @@
-# Hola, soy Ridouan Tieb
+# Hello, I’m Ridouan Tieb
+I develop bespoke software, integrations and connected solutions for environments where stability and scalability are key.
 
-Desarrollo software a medida, integraciones y soluciones conectadas para entornos donde estabilidad y evolución importan.
+I specialise in backend development, connectivity and operations: applications that integrate APIs, services, devices and real-time data flows, with a focus on maintainability, reliability and technical scalability.
 
-Trabajo sobre todo en backend, conectividad y operación: aplicaciones que integran APIs, servicios, dispositivos y flujos en tiempo
-real, con foco en mantenimiento, fiabilidad y evolución técnica.
+## My areas of expertise
+- Cross-platform applications and bespoke software
+- Systems, API and device integration
+- Real-time solutions and monitoring
+- Enhancement and maintenance of existing software
 
-## En qué me centro
-- Aplicaciones multiplataforma y software a medida
-- Integración de sistemas, APIs y dispositivos
-- Soluciones en tiempo real y monitorización
-- Mejora y mantenimiento de software existente
-
-## Tecnologías habituales
+## Common technologies
 C# · Java · Kotlin · .NET · .NET Framework · ASP.NET Core · WPF · REST API · SOAP · Docker · MySQL · MongoDB
 
 ## [Universal MCP](https://github.com/tiebdev/UniversalMCP)
-Infraestructura local desarrollada en Python para centralizar y supervisar múltiples servidores MCP desde una única capa de control.
+A local infrastructure developed in Python to centralise and monitor multiple MCP servers from a single control layer.
 
- - Reduce duplicación de procesos y configuración entre clientes de IA
- - Aísla perfiles, secretos y workspaces
- - Añade observabilidad y control sobre respuestas MCP
+ - Reduces duplication of processes and configuration across AI clients
+ - Isolates profiles, secrets and workspaces
+ - Enhances observability and control over MCP responses
 
-## Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
+## I’m always open to new opportunities and collaborations. Please don’t hesitate to get in touch!
 
-## Contacto
+## Contact
   - [LinkedIn](https://www.linkedin.com/in/ridouantieb/)
   - [Email](mailto:ridouan@tieb.dev)
   - [Portfolio](https://tieb.dev)
